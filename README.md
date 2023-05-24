@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @Auztinn
 - 👀 I’m interested in Web Development
-- 🌱 I am activley learning JavaScript, HTML & Css
+- 🌱 I am activley learning JavaScript, HTML & CSS
 - 💞️ I am currently designing a personal website (will link soon).
 
 <!---
