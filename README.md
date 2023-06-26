@@ -1,7 +1,7 @@
 - 👋 Hello, I’m @Auztinn
-- 👀 I’m interested in Web Development
+- 👀 I love Web Development
 - 🌱 I am activley learning JavaScript, HTML & CSS
-- 💞️ I am currently designing a personal website (will link soon).
+- 💞️ I am currently designing a personal website (https://auztinn.github.io/).
 
 <!---
 Auztinn/Auztinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
